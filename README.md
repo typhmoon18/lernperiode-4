@@ -4,10 +4,9 @@ Sinan Gerwig
 20.2 bis 2.4.2024
 
 Grob-Planung
-Ich war bis jetzt in allen drei module nbis jetzt voll dabei und hatte auch gute Noten. Die nächsten zwei verstehe ich auch ziemlich gut.
-
-Neu: Was möchten Sie Neues lernen?
-Was wäre ein geeignetes Projekt für diese LP4?
+Ich war bis jetzt in allen drei modulen bis jetzt voll dabei und hatte auch gute Noten. Die nächsten zwei verstehe ich auch ziemlich gut.
+Ich probiere dises Mal mir nicht zu viel vorzunehmen.
+Der Discord Bot hat mich deutlich am miesten angemacht, darum werde ich diesn probieren
 20.2.2024
 ✍️ Heute habe ich... (50-100 Wörter)
 
