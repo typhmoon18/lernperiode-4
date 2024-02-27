@@ -22,7 +22,7 @@ Ich habe jetzt den Lb eigentlich fertig. Nun muss ich nur noch die Datenbank ext
 - [ ] recherchieren wie man einen Bilder-Bot programmiert Question: Wie programmiert man einen Bot welcher Bilder durch Google suche ausgeben kann?
 - [ ] Bot zum chatten bringen
 - [ ] Bot zum Bilder generieren Bringen
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
+
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
 | 1              |     Bot ist auf dem Server eingeladen   |   @IMS bot   |  bot erscheint zum Anpingen	   |        |
