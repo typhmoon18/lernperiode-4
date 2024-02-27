@@ -14,12 +14,12 @@ Heute habe ich vorallem die ersten Infos gesammelt und den Code für den Discord
 [ ] Grundcode mit Video abschliessen
 [ ] recherchieren wie man einen Bilder-Bot programmiert
 [ ]eigentliches Beginnen des Programmierens bis um 11:30 (probieren den bot zum chatten bringen)
+
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
+
 1	Bot ist auf dem Server eingeladen | @IMS bot | bot erscheint zum Anpingen					
 3	Bot ist vollkommen konfigueriert | Bot wird angeschrieben | Bot antwortet 		
-✍️ Heute habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
