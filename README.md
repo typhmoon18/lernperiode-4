@@ -16,6 +16,12 @@ Heute habe ich vorallem die ersten Infos gesammelt und den Code für den Discord
 [ ]eigentliches Beginnen des Programmierens bis um 11:30 (probieren den bot zum chatten bringen)
 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
+| estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| -------------- | -------------------- | -------------- | -------------- | -------- |
+| 1              |     Bot ist auf dem Server eingeladen   |   @IMS bot   |  bot erscheint zum Anpingen	   |        |
+| 3  |    Bot ist vollkommen konfigueriert   |   Bot wird angeschrieben |    Bot antwortet |          |
+ |
+|              |                      |                |                |          |
 
 1	Bot ist auf dem Server eingeladen | @IMS bot | bot erscheint zum Anpingen					
 3	Bot ist vollkommen konfigueriert | Bot wird angeschrieben | Bot antwortet 		
