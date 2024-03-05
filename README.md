@@ -16,8 +16,9 @@ Heute habe ich vorallem die ersten Infos gesammelt und den Code für den Discord
 - [x] SQL LB IV Aufgabe 5-6
 ## Reflexion 27.2.2024
 Ich habe jetzt den Lb eigentlich fertig. Nun muss ich nur noch die Datenbank extrahieren und die Dokumentation des LB's abschliessen. Das arbeiten lief gut auch wenn die Aufgabe deutlich schwieriger waren alss vorher. (Aufgabe IV hatten wir eigentlich nicht und mussten ungefragt selber recherchieren.
-
-## 5.3.2024
+## Reflexion 5.3.24
+Heute habe ich leider meine Aufgaben wieder aufschieben m[ssen, da ich noch sehr dringende Aufgaben von Informatik 187 hatte. Ich habe mit der OBA Note begonnen und einen Auftrag fertiggestellt. AUch habe ich mich schlussendlich noch einem Deutschvortrag gewidmet. 
+## 12.3.2024
 - [ ] Grundcode mit Video abschliessen https://www.youtube.com/watch?v=e2iaRVf4sho
 - [ ] recherchieren wie man einen Bilder-Bot programmiert Question: Wie programmiert man einen Bot welcher Bilder durch Google suche ausgeben kann?
 - [ ] Bot zum chatten bringen
