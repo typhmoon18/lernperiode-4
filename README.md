@@ -31,7 +31,11 @@ Heute habe ich leider meine Aufgaben wieder aufschieben m[ssen, da ich noch sehr
 |  3 |      Bot kann angeschrieben werden |   HAllo Ims Bot             |     Hallo typhmoon  |          |
 | 4  | Bot kann bilder suchen | apple      | gibt ein bild eines Apfels aus |  |
 
-
-
-Reflexion
-
+## 12.3.24
+heute bin gut weitergekommen. Bis ich auf einen Fehler gestossen bin, den ich auch mit hilfe von ChatGPT oder Gemini nicht beheben konnte. Ich führte also nach 1.5 Stunden Problembehebung weiter mit dem Tutorial.
+somit kann ich die Arbeitspakete leider nur nochmal wiederholen.
+## 19.3.24
+- [ ] Grundcode mit Video abschliessen https://www.youtube.com/watch?v=e2iaRVf4sho
+- [ ] recherchieren wie man einen Bilder-Bot programmiert Question: Wie programmiert man einen Bot welcher Bilder durch Google suche ausgeben kann?
+- [ ] Bot zum chatten bringen
+- [ ] Bot zum Bilder generieren Bringen
