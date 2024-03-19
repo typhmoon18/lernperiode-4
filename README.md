@@ -35,7 +35,15 @@ Heute habe ich leider meine Aufgaben wieder aufschieben m[ssen, da ich noch sehr
 heute bin gut weitergekommen. Bis ich auf einen Fehler gestossen bin, den ich auch mit hilfe von ChatGPT oder Gemini nicht beheben konnte. Ich führte also nach 1.5 Stunden Problembehebung weiter mit dem Tutorial.
 somit kann ich die Arbeitspakete leider nur nochmal wiederholen.
 ## 19.3.24
-- [ ] Grundcode mit Video abschliessen https://www.youtube.com/watch?v=e2iaRVf4sho
-- [ ] recherchieren wie man einen Bilder-Bot programmiert Question: Wie programmiert man einen Bot welcher Bilder durch Google suche ausgeben kann?
+- [x] Grundcode mit Video abschliessen https://www.youtube.com/watch?v=e2iaRVf4sho
+- [x] recherchieren wie man einen Bilder-Bot programmiert Question: Wie programmiert man einen Bot welcher Bilder durch Google suche ausgeben kann?
 - [ ] Bot zum chatten bringen
 - [ ] Bot zum Bilder generieren Bringen
+
+Heute hab ich den Grundcode fertig geschafft. Trotzdem habe ich das ihnen bekannte Problem bis jetzt nicht lösen können. Somit bleiben die letzten beiden AP übrig, welche ich auf nächstes mal übernehmen werde.
+
+##26.3.24
+- [ ] Bot zum chatten bringen
+- [ ] bot zum Bilder generieren bringen
+- [ ] API installieren
+- [ ] Bot ausgestalten.
