@@ -47,3 +47,6 @@ Heute hab ich den Grundcode fertig geschafft. Trotzdem habe ich das ihnen bekann
 - [ ] bot zum Bilder generieren bringen
 - [ ] API installieren
 - [ ] Bot ausgestalten.
+
+##26.3.24 
+Auch nach Dem Problemsuchen war es mir nicht möglich den Fehler zu finden. Ich habe zusätzlich nochmals verscheidene kis gefragt welche mir auch keinen fehler angeben konnten oder ihre lösung nicht verändert hat. der Bot erkennt die Nachricht reagiert aber nicht. Die von ihnen gennanten Methoden haben bis jetzt auch noch nicht funktioniert(Aktualität und Richtigkeit überprüfen). Ich werde also nächstes mal einen erneuten Anlauf der Problembehebung nehmen.
