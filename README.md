@@ -53,3 +53,6 @@ Auch nach Dem Problemsuchen war es mir nicht möglich den Fehler zu finden. Ich 
 
 ## 2.4.24
 Auch huete hatte ich keinen Erfolg mehr. Ich würde es gut finden wenn wir das ganze nach den Ferein genauer anschauen könnten. Der Bot erkennt immernoch die NAchricht, aber antwortet nicht.
+
+## Reflexion LP4
+Diese lernperiode konnte ich gut arbeiten. An den Noten hat sich bis jetzt auch nichts geändert (5.5) Schnitt. Die GesamtNote in der Kanti wurde aber tiefer. Gehapert hats nur beim letzten teil. Ich habe meinen code mit hilfe des oben gennanten Videos geschrieben. Und weiss nun nicht wie weiter. Ich denke es wäre vorteilhaft wenn ich nächste Lernperiode mein wissen zu Bugfixing ein bisschen aufstocke und dann dem Projekt einen neuen Anlauf gebe. Ich werde also nächste Lernperiode das projekt weiterführen.
