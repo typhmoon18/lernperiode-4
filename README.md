@@ -42,14 +42,14 @@ somit kann ich die Arbeitspakete leider nur nochmal wiederholen.
 
 Heute hab ich den Grundcode fertig geschafft. Trotzdem habe ich das ihnen bekannte Problem bis jetzt nicht lösen können. Somit bleiben die letzten beiden AP übrig, welche ich auf nächstes mal übernehmen werde.
 
-##26.3.24
+## 26.3.24
 - [ ] Bot zum chatten bringen
 - [ ] bot zum Bilder generieren bringen
 - [ ] API installieren
 - [ ] Bot ausgestalten.
 
-##26.3.24 
+## 26.3.24 
 Auch nach Dem Problemsuchen war es mir nicht möglich den Fehler zu finden. Ich habe zusätzlich nochmals verscheidene kis gefragt welche mir auch keinen fehler angeben konnten oder ihre lösung nicht verändert hat. der Bot erkennt die Nachricht reagiert aber nicht. Die von ihnen gennanten Methoden haben bis jetzt auch noch nicht funktioniert(Aktualität und Richtigkeit überprüfen). Ich werde also nächstes mal einen erneuten Anlauf der Problembehebung nehmen.
 
-##2.4.24
+## 2.4.24
 Auch huete hatte ich keinen Erfolg mehr. Ich würde es gut finden wenn wir das ganze nach den Ferein genauer anschauen könnten. Der Bot erkennt immernoch die NAchricht, aber antwortet nicht.
